@@ -66,7 +66,7 @@ function Contact() {
           </div>
 
           {/* Right: Image (hidden on mobile) */}
-          <div className="hidden  md:hidden xl:flex h-168 justify-center items-center">
+          <div className="hidden  md:hidden xl:flex h-181 justify-center items-center">
             <Image
               src="https://img.freepik.com/free-vector/flat-design-illustration-customer-support_23-2148887720.jpg?semt=ais_hybrid"
               alt="Dashboard Preview"
