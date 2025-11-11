@@ -81,7 +81,7 @@ function FAQ() {
                 </p>
               </AccordionContent>
             </AccordionItem>
-            <AccordionItem value="item-5" className="border-b border-muted">
+            <AccordionItem value="item-6" className="border-b border-muted">
               <AccordionTrigger className="text-lg font-medium">
                 How should we sign up?
               </AccordionTrigger>
@@ -94,7 +94,7 @@ function FAQ() {
                 </p>
               </AccordionContent>
             </AccordionItem>
-            <AccordionItem value="item-5" className="border-b border-muted">
+            <AccordionItem value="item-7" className="border-b border-muted">
               <AccordionTrigger className="text-lg font-medium">
                 Can I schedule a follow-up session after feedback?
               </AccordionTrigger>
@@ -105,7 +105,7 @@ function FAQ() {
                 </p>
               </AccordionContent>
             </AccordionItem>
-            <AccordionItem value="item-5" className="border-b border-muted">
+            <AccordionItem value="item-8" className="border-b border-muted">
               <AccordionTrigger className="text-lg font-medium">
                 Who are we?
               </AccordionTrigger>

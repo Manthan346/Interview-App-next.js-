@@ -52,11 +52,7 @@ const Footer = () => {
                 contact us
               </Link>
             </li>
-            <li>
-              <Link href="/terms">
-                Twitter
-              </Link>
-            </li>
+          
             <li>
               <Link
                 href="https://www.linkedin.com/company/mockbuddyio/"
